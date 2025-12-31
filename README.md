@@ -5,12 +5,10 @@
 ### Preview
 
 <div>
-<img width="460" height="260" src="PreviewC3E.jpg" alt="Preview" title="Preview">
+<img width="460" height="260" src="PreviewBP.jpg" alt="Preview" title="Preview">
 <div></div>
 
-### Released 
-
-Dynamic Theme
+### Released
 
 Byte Patcher (Embedded in The APK) Dumper, HEX Editor, Assembler, Patcher
 
