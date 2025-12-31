@@ -1,6 +1,6 @@
 ## Byte Patcher 1.0.0
 
-[![Byte Patcher](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/CRC32-Editor/releases/tag/CRC32-Editor)
+[![Byte Patcher](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/BytePatcher/releases/download/BytePatcher/Byte-Patcher-1.0.0.apk)
 
 ### Preview
 
